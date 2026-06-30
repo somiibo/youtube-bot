@@ -4,7 +4,7 @@
 
 <h1>YouTube Bot</h1>
 
-<p><strong>Free youtube bot</strong> that automatically subscribes to users and likes & comments on videos</p>
+<p><strong>Free <a href="https://somiibo.com/platforms/youtube-bot">youtube bot</a></strong> that automatically subscribes to users and likes & comments on videos</p>
 
 <p>
 <a href="https://somiibo.com/download"><img src="https://img.shields.io/badge/Download-Free-28a745?style=for-the-badge" alt="Download Free"></a>
@@ -23,7 +23,7 @@
 
 <br>
 
-> **[Somiibo](https://somiibo.com/platforms/youtube-bot)** Automate social media activity to get real followers, likes, & reposts on TikTok, Instagram, SoundCloud, Twitter & many more sites. Spend less time marketing!
+> Automate social media activity to get real followers, likes, & reposts on TikTok, Instagram, SoundCloud, Twitter & many more sites. Spend less time marketing!
 
 <br>
 
